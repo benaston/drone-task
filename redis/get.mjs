@@ -1,4 +1,4 @@
-import client from "./client";
+import client from "redis";
 
 export default = (client, key) =>
     new Promise((resolve, reject) =>
