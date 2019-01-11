@@ -1,3 +1,3 @@
-This code was written WITHOUT running it.
+To run:
 
-It has not been tested.
+heroku local web
