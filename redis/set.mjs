@@ -1,4 +1,4 @@
-import client from "./client";
+import client from "redis";
 
 const DEFAULT_LIFETIME = 300; // seconds
 
